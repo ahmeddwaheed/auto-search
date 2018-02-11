@@ -1,0 +1,8 @@
+C:\Users\Waheed\Downloads\AutoSearch\bin\Debug\AutoSearch.exe
+C:\Users\Waheed\Downloads\AutoSearch\bin\Debug\AutoSearch.pdb
+C:\Users\Waheed\Downloads\AutoSearch\obj\x86\Debug\AutoSearch.csprojResolveAssemblyReference.cache
+C:\Users\Waheed\Downloads\AutoSearch\obj\x86\Debug\AutoSearch.Main.resources
+C:\Users\Waheed\Downloads\AutoSearch\obj\x86\Debug\AutoSearch.Properties.Resources.resources
+C:\Users\Waheed\Downloads\AutoSearch\obj\x86\Debug\AutoSearch.csproj.GenerateResource.Cache
+C:\Users\Waheed\Downloads\AutoSearch\obj\x86\Debug\AutoSearch.exe
+C:\Users\Waheed\Downloads\AutoSearch\obj\x86\Debug\AutoSearch.pdb
